@@ -35,7 +35,7 @@ def check_lists(list_to_compare1, list_to_compare2):
 
 
 def list_of_lists(list_of_lists_to_modify):
-    list1= list_of_lists_to_modify[0]
+    	list1= list_of_lists_to_modify[0]
 	list2= list_of_lists_to_modify[1]
 	list3= list_of_lists_to_modify[2]
 	len1= len(list1)
